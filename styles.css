@@ -30,7 +30,7 @@
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  font-size: 62.5%;
+  font-size: 42.5%;
 }
 
 body {
@@ -278,7 +278,7 @@ img {
 .socials {
   position: relative;
   
-  left: 8%;
+  left: 12%;
   top: 30%;
 }
 
@@ -296,7 +296,7 @@ img {
 @media (max-width: 768px) {
   .socials {
     position:absoulte ;
-    left: 5%;
+    left: 10%;
   }
 }
 
@@ -379,7 +379,7 @@ img {
 .header .content {
   position: absolute;
   top: 35%;
-  left: 8%;
+  left: 12%;
 }
 
 .header .content span {
@@ -437,7 +437,7 @@ img {
 @media (max-width: 768px) {
   .header .content {
     top: 30%;
-    left: 5%;
+    left: 10%;
   }
 
   .header .content span {
