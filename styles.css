@@ -236,7 +236,7 @@ img {
 @media (max-width: 996px) {
   .overlay {
     width: 90rem;
-    height: 80rem;
+    height: 70rem;
     right: -20%;
     bottom: -40%;
   }
