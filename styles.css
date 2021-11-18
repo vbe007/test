@@ -30,7 +30,7 @@
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  font-size: 46.5%;
+  font-size: 42.5%;
 }
 
 body {
@@ -90,7 +90,7 @@ img {
 }
 
 .nav-center {
-  max-width: 114rem;
+  max-width: 124rem;
   margin: 0 auto;
   justify-content: space-between;
 }
